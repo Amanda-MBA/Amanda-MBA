@@ -14,4 +14,3 @@
   
  </div>
  
- ![Snake Animation](https://github.com/Amanda-MBA/Amanda-MBA/blob/output/github-contribution-grid-snake.svg)
